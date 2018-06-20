@@ -8,6 +8,9 @@ public class Test {
 
 		
 		System.out.println("efgdfg");
+		System.out.println("efgdfg");
+		System.out.println("efgdfg");
+		System.out.println("efgdfg");
 	}
 
 }
